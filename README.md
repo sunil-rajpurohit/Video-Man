@@ -41,6 +41,8 @@ Video Man is a Windows desktop video and audio downloader powered by [yt-dlp](ht
 
 ## Screenshots
 
+Add screenshots to `assets/screenshots/`, then update the paths below.
+
 ### Home tab
 
 ![Video Man Home tab](assets/screenshots/Interface.png)
@@ -88,11 +90,11 @@ The version should be Python 3.10 or newer.
 Clone the repository:
 
 ```bat
-git clone https://github.com/YOUR-USERNAME/Video-Man.git
+git clone https://github.com/sunil-rajpurohit/Video-Man.git
 cd Video-Man
 ```
 
-Replace `YOUR-USERNAME/Video-Man` with the actual GitHub repository URL. You can also use **Code > Download ZIP** on GitHub and extract the project folder.
+You can also use **Code > Download ZIP** on GitHub and extract the project folder.
 
 ### 3. Run setup
 
@@ -131,7 +133,7 @@ Double-click `dist\Video-Man.exe` to start Video Man. The executable includes th
 Complete Windows build commands:
 
 ```bat
-git clone https://github.com/YOUR-USERNAME/Video-Man.git
+git clone https://github.com/sunil-rajpurohit/Video-Man.git
 cd Video-Man
 python --version
 setup.bat
@@ -266,7 +268,8 @@ Video-Man/
 ├── assets/
 │   ├── Icon_OG.png       # Application icon
 │   ├── icon.png          # Additional image asset
-│   └── icon.webp         # Additional image asset
+│   ├── icon.webp         # Additional image asset
+│   └── screenshots/      # Project screenshots
 ├── src/
 │   ├── main.py           # Main window, pages, and UI event handling
 │   ├── downloader.py     # yt-dlp integration and download execution
@@ -286,14 +289,14 @@ Video-Man/
 ### Clone and update
 
 ```bat
-git clone https://github.com/YOUR-USERNAME/Video-Man.git
+git clone https://github.com/sunil-rajpurohit/Video-Man.git
 cd Video-Man
 git branch --show-current
 git status
 git pull origin main
 ```
 
-Replace `YOUR-USERNAME/Video-Man` with the actual repository URL. Replace `main` if the repository uses another default branch.
+Replace `main` if the repository uses another default branch.
 
 ### Create a feature branch
 
