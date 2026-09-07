@@ -43,7 +43,7 @@ Video Man is a Windows desktop video and audio downloader powered by [yt-dlp](ht
 
 ### Home tab
 
-![Video Man Home tab](assets/screenshots/interface.png)
+![Video Man Home tab](assets/screenshots/Interface.png)
 
 ### Playlist tab
 
