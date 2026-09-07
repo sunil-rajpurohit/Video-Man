@@ -41,11 +41,9 @@ Video Man is a Windows desktop video and audio downloader powered by [yt-dlp](ht
 
 ## Screenshots
 
-Add screenshots to `assets/screenshots/`, then update the paths below.
-
 ### Home tab
 
-![Video Man Home tab](assets/screenshots/home.png)
+![Video Man Home tab](assets/screenshots/interface.png)
 
 ### Playlist tab
 
